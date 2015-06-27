@@ -7,7 +7,7 @@
 [Hearken](http://www.wearehearken.com/) focuses on developing tools and processes to help newsrooms and other media outlets better engage with their audience in the pre-publication phase of a story, from idea inception through the reporting process. Our first offering is a set of tools, including embeddable modules, to gather questions from the audience and allow them to weigh in via voting on what story should be reported. We are a small team, consisting of our CEO, [Jennifer Brandel](https://twitter.com/JnnBrndl), our CTO, [Corey Haines](https://twitter.com/coreyhaines) (me), and our lead developer, [Sam Withrow](https://twitter.com/typwrtr).
 
 
-We are looking for an beginner-level intern to join us for a 2- to 3-month contract, spending 30 hours per work working with us. While the internship will be focused on developing features for our tools, we look at this program as a learning opportunity for the participant. Work will be done under the guidance of senior-level developers with frequent discussions about simple design, testing and other development practices. We are intending to begin with a single intern, but hope to move to a cohort of 3 by the end of the year.
+We are looking for an beginner-level intern to join us for a 2- to 3-month contract, spending 30 hours per week working with us. While the internship will be focused on developing features for our tools, we look at this program as a learning opportunity for the participant. Work will be done under the guidance of senior-level developers with frequent discussions about simple design, testing and other development practices. We are intending to begin with a single intern, but hope to move to a cohort of 3 by the end of the year.
 
 We are looking to start in August, 2015. Due to the nature of the internship and our capacity, we currently are only accepting applications from people who can be physically present with us in Chicago.
 
@@ -45,7 +45,7 @@ You can think of it this way:
 * Visitor "chooses" a cat by pressing the associated button.
 * After choosing one, the system presents the user with two more cats to choose from.
 
-Of course, while this application is world-changing and will be clearly a hit just from a health perspective, we also want to do some data analysis on which cats are primarily "ZOMG! Cute!" and which are "Amazing! So Beautiful!" We'll also want the ability to add new images. So, we need to put together an administrative backend. There are a few functions that need to be built.
+Of course, while this application is world-changing and will clearly be a hit just from a health perspective, we also want to do some data analysis on which cats are primarily "ZOMG! Cute!" and which are "Amazing! So Beautiful!" We'll also want the ability to add new images. So, we need to put together an administrative backend. There are a few functions that need to be built.
 
 The administrative backend should be restricted behind a login. You don't need to worry about user registration, as we can manually create the users in the database. Please use Devise for the user authentication.
 
