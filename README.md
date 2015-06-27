@@ -9,7 +9,7 @@
 [Hearken](http://www.wearehearken.com/) focuses on developing tools and processes to help newsrooms and other media outlets better engage with their audience in the pre-publication phase of a story, from idea inception through the reporting process. Our first offering is a set of tools, including embeddable modules, to gather questions from the audience and allow them to weigh in via voting on what story should be reported. We are a small team, consisting of our CEO, [Jennifer Brandel](https://twitter.com/JnnBrndl), our CTO, [Corey Haines](https://twitter.com/coreyhaines) (me), and our lead developer, [Sam Withrow](https://twitter.com/typwrtr).
 
 
-We are looking for an beginner-level intern to join us for a 2- to 3-month contract, spending 30 hours per week working with us. While the internship will be focused on developing features for our tools, we look at this program as a learning opportunity for the participant. Work will be done under the guidance of senior-level developers with frequent discussions about simple design, testing and other development practices. We are intending to begin with a single intern, but hope to move to a cohort of 3 by the end of the year. Unfortunately we aren't in the position (yet) to hire someone full-time, but this internship can be a great stepping stone in your job search.
+We are looking for a beginner-level intern to join us for a 2- to 3-month contract, spending 30 hours per week working with us. While the internship will be focused on developing features for our tools, we look at this program as a learning opportunity for the participant. Work will be done under the guidance of senior-level developers with frequent discussions about simple design, testing and other development practices. We are intending to begin with a single intern, but hope to move to a cohort of 3 by the end of the year. Unfortunately we aren't in the position (yet) to hire someone full-time, but this internship can be a great stepping stone in your job search.
 
 We are looking to start in August, 2015. Due to the nature of the internship and our capacity, we currently are only accepting applications from people who can be physically present with us in Chicago.
 
@@ -19,12 +19,12 @@ Our technology stack consists of a Ruby on Rails back-end server, with a backbon
 
 ## What you get
 
-During the course of the contract, you'll be working closely, in-person, with Corey. While our primary goal is to ship functionality for our customers, this internship has a strong learning component. You can expect regular code reviews, discussions about coding and a welcoming, non-judgmental atmosphere to ask questions when you don't know how to do something.
+During the course of the contract, you'll be working closely, in-person, with Corey. While our primary goal is to ship functionality for our customers, this internship has a strong learning component. You can expect regular code reviews, discussions about coding, and a welcoming, non-judgmental atmosphere to ask questions when you don't know how to do something.
 
 * 2- to 3-month contract internship working on a real-world, production application that is used by media outlets and newsrooms around the country.
 * $20 / hour for 30 hours a week paid as a contractor.
-* LinkedIn recommendation at the end of the contract.
-* Regular code reviews (all work is merged in with pull requests, so there is room to discuss).
+* LinkedIn recommendation at the end of the contract, assuming you make a great impression.
+* Regular code reviews (all work is merged in with pull requests, so there discussion is built into the process).
 * Weekly 1-1s to talk about anything, not only code (want to talk about your career? we can talk about that. want some feedback on speaking? that's cool, too).
 * Ad-hoc discussions of simple design, testing and rails best practices (example: why did you make a whole new controller just for that one action?).
 * Free copy of Corey's book, [Understanding the 4 Rules of Simple Design](https://leanpub.com/4rulesofsimpledesign/).
@@ -39,7 +39,7 @@ Submitting can be done with the following steps:
 * Complete the challenge
 * When finished, submit a pull request against this repository.
 
-**Note:** We understand that there can be various reasons you might not be comfortably publicly submitting your code. If you have concerns, please email [corey.haines@wearehearken.com](mailto:corey.haines@wearehearken.com), and we will find an alternate method. Submitting your application in private will IN NO WAY affect your chances.
+**Note:** We understand that there can be various reasons you might not be comfortable publicly submitting your code. If you have concerns, please email [corey.haines@wearehearken.com](mailto:corey.haines@wearehearken.com), and we will find an alternate method. Submitting your application in private will IN NO WAY affect your chances.
 
 ## Application requirements
 
