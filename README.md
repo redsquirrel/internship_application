@@ -1,5 +1,7 @@
 # WORKING DRAFT INTENDED FOR FEEDBACK!!!!!
 
+# After hearing a lot of feedback, I'll be adjusting this to be adding features to an existing application, rather than starting from scratch. Thanks.
+
 # Internship at Hearken
 
 ## Introduction
